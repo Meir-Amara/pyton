@@ -1,0 +1,19 @@
+[{
+    "Name": "meir",
+    "Address": {
+        "City": "los",
+        "Street": {
+            "Name": "rabi aciva",
+            "Number": 1
+        }
+    }
+},{
+    "Name": "eden",
+    "Address": {
+        "City": "bear seava",
+        "Street": {
+            "Name": "jerusalem street",
+            "Number": 80
+        }
+    }
+}]
