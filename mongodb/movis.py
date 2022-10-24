@@ -1,6 +1,5 @@
-from pydoc import doc
 from pymongo import MongoClient
-from bson import objectid
+
 import requests
 
 client = MongoClient("localhost", 27017)
